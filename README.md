@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maiziko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📊 Github Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Maiziko&theme=github-compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
